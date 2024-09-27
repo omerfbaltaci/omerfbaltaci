@@ -1,4 +1,4 @@
-# 👉🏻 About Me:
+# About Me:
 ➔ Hi, I'm Ömer Faruk<br>➔ I'm passionate about machine learning, object detecting / tracking, web development, and graphic design.<br>➔ I thrive on solving complex problems and building innovative digital solutions.<br>➔ Based in Istanbul, Türkiye<br>➔ Skilled in Python, Pandas, NumPy, JavaScript, with some experience in C, Java and JavaFX.
 
 # 💻 Tech Stack:
